@@ -1,8 +1,5 @@
 # php
-learning PHP
-recording 
-rpctvm
-www
+learning PHP recording rpctvmwww
 
 ~~~5.2人工暂停服务后,第二天结果:暂停显示, 使用后台启动或恢复售票
 
